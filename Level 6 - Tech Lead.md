@@ -18,7 +18,7 @@
 - Effectively collaborates with product managers and other stakeholders.
 
 ### Minimum Duration:
-- Around 3 to 5 years of experience as a senior engineer or equivalent leadership experience.
+- Around 6 to 8+ years of experience as a senior engineer or equivalent leadership experience.
 
 ### Next Actions:
 - Successfully lead a team or sub-team through a major project.
