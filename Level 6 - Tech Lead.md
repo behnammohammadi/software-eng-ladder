@@ -32,3 +32,5 @@
 - As a mentor, they guide other tech leads and junior tech leads in solving complex challenges.
 - Their effective communication fosters a positive and collaborative work environment.
 
+## Technology Stack
+- [.NET](Technology%20Stack/.Net/Level%206.md)
