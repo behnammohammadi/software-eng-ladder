@@ -32,3 +32,5 @@
 - During team discussions, they contribute ideas for improvements and share their learning experiences.
 - They actively seek guidance from mid-level and senior engineers to improve their skills.
 
+## Technology Stack
+- [.NET](Technology%20Stack/.Net/Level%202.md)
