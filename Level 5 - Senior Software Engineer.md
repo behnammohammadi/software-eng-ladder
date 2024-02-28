@@ -32,3 +32,6 @@
 - As a mentor to other team leads, they share insights on managing complex projects.
 - They contribute to defining technical standards, influencing technology choices for the organization.
 
+
+## Technology Stack
+- [.NET](Technology%20Stack/.Net/Level%205.md)
