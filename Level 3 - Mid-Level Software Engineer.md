@@ -32,3 +32,6 @@
 - As a mentor, they guide junior team members in resolving technical challenges.
 - They contribute to defining coding standards and best practices within the team.
 
+
+## Technology Stack
+- [.NET](Technology%20Stack/.Net/Level%203.md)
