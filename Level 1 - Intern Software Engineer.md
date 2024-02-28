@@ -27,3 +27,5 @@
 - They collaborate with the product team by seeking clarification on feature requirements.
 - Attend product meetings to gain exposure to the business context.
 
+## Technology Stack
+- [.NET](Technology%20Stack/.Net/Level%201.md)
