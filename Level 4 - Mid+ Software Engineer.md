@@ -32,3 +32,6 @@
 - Actively involved in process improvement, they identify bottlenecks and suggest enhancements.
 - They lead code and architecture reviews, ensuring high-quality deliverables.
 
+
+## Technology Stack
+- [.NET](Technology%20Stack/.Net/Level%204.md)
