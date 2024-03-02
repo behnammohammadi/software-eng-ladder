@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Level 1: Intern Software Engineer
+## Level 1: Intern Software Engineer (L1)
 
 ### Responsibilities:
 - Learning the basics of the development environment.

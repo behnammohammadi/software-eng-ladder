@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Level 6: Tech Lead
+## Level 6: Tech Lead (TL1)
 
 ### Responsibilities:
 - Leading a team or sub-team.
@@ -19,7 +19,6 @@
 
 ### Minimum Experience:
 - 8+ years of practical experience before considering a promotion.
-
 
 ### Next Actions:
 - Successfully lead a team or sub-team through a major project.
