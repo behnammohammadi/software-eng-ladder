@@ -2,12 +2,12 @@
 
 ## Roadmap:
 
-### 1. Leadership in Software Design:
+### 1. Proficency in Software Design:
    - Lead the design and implementation of complex features.
    - Understand and contribute to high-level architectural decisions.
 
 ### 2. Advanced Database Management:
-   - Optimize database performance and queries.
+   - Optimize database performance and queries (SQL Server, PostgreSQL,...).
    - Work with large datasets and handle database scaling.
 
 ### 3. Cross-Platform Development:
@@ -80,4 +80,4 @@
 - **Example Exercise:**
    - Solve advanced algorithmic challenges on platforms like LeetCode or CodeSignal.
 
-As a Mid-Level .NET Developer, you are expected to take a leadership role in software design, dive deeper into advanced database management and security practices, and explore technologies that enable scalable and secure software solutions.
+As a Mid-Level .NET Developer, you are expected to dive deeper into advanced database management and security practices, and explore technologies that enable scalable and secure software solutions.

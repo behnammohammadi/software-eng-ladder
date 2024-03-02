@@ -24,7 +24,6 @@
 
 ### 6. Project Management and Delivery:
    - Manage project timelines and delivery schedules.
-   - Collaborate with project managers to align technical decisions with business goals.
 
 ### 7. Thought Leadership:
    - Contribute to thought leadership within the organization.
@@ -36,7 +35,7 @@
 - **Database:** Advanced optimization techniques, NoSQL databases
 - **Cloud Services:** Azure, AWS, or Google Cloud
 - **Container Orchestration:** Kubernetes
-- **Architecture Patterns:** Event-driven architecture, Serverless computing
+- **Architecture Patterns:** Event-driven architecture
 - **Project Management:** Agile, Scrum, or Kanban
 
 ## Concepts:
@@ -67,7 +66,6 @@
 
 7. **Thought Leadership:**
    - Contributing to thought leadership within the organization.
-   - Representing the technical team in discussions with stakeholders.
 
 ## Examples:
 

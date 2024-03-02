@@ -17,8 +17,8 @@
 - Provides constructive feedback to team members.
 - Encourages a positive and inclusive team culture.
 
-### Minimum Duration:
-- Approximately 3 to 5 years of experience as a mid-level engineer.
+### Minimum Experience:
+- Around 3 to 5 years of practical experience before considering a promotion.
 
 ### Next Actions:
 - Take the lead on a critical project or component.

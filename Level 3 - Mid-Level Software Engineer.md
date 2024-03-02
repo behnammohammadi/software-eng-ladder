@@ -17,8 +17,8 @@
 - Provides mentorship and guidance to junior team members.
 - Communicates complex technical concepts clearly.
 
-### Minimum Duration:
-- About 2 to 4 years as a junior engineer or equivalent experience.
+### Minimum Experience:
+- Around 2 to 4 years of practical experience before considering a promotion.
 
 ### Next Actions:
 - Lead the implementation of medium-sized features.
@@ -30,7 +30,7 @@
 - A mid-level engineer is leading the implementation of a critical feature.
 - They actively collaborate with team members, participate in architecture discussions, and propose design improvements.
 - As a mentor, they guide junior team members in resolving technical challenges.
-- They contribute to defining coding standards and best practices within the team.
+- They contribute to define coding standards and best practices within the team.
 
 
 ## Technology Stack

@@ -17,8 +17,8 @@
 - Communicates effectively with leadership and stakeholders.
 - Fosters a positive and collaborative work environment.
 
-### Minimum Duration:
-- Typically, 6+ years of experience as a mid-level engineer before moving to a senior role.
+### Minimum Experience:
+- 6+ years of practical experience before considering a promotion.
 
 ### Next Actions:
 - Take on a leadership role in a larger project or initiative.
