@@ -10,7 +10,7 @@ This repository outlines the career progression for software engineers, spanning
 - [Level 6: Tech Lead](Level%206%20-%20Tech%20Lead.md)
 
 Explore each level to understand the associated responsibilities, skills, and next steps in the software engineering career journey.
-
+[References](References.md)
 ---
 
 We created the first version of this document with ChatGPT 3.5. Now, we want to make it even better by getting input and ideas from everyone. ❤️
