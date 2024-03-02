@@ -20,7 +20,8 @@
 
 ### 5. Basic Web Development with ASP.NET:
    - Get hands-on experience with building simple web applications using ASP.NET.
-   - Learn about web forms, MVC basics, and routing.
+   - Learn about web forms, MVC basics, and routing. web forms
+   <!-- - web forms ?? -->
 
 ### 6. Database Basics:
    - Understand the basics of working with databases.
@@ -46,7 +47,7 @@
    - Control flow (if statements, loops).
    - Functions and methods.
 
-2. **Object-Oriented Programming (OOP):**
+2. **Object-Oriented Programming (OOP):**  Familiarity??
    - Classes, objects, and inheritance.
    - Encapsulation and polymorphism.
 

@@ -2,7 +2,7 @@
 
 ## Roadmap:
 
-### 1. Leadership in Software Design:
+### 1. Leadership in Software Design: ??
    - Lead the design and implementation of complex features.
    - Understand and contribute to high-level architectural decisions.
 
@@ -81,3 +81,5 @@
    - Solve advanced algorithmic challenges on platforms like LeetCode or CodeSignal.
 
 As a Mid-Level .NET Developer, you are expected to take a leadership role in software design, dive deeper into advanced database management and security practices, and explore technologies that enable scalable and secure software solutions.
+
+leadership??
