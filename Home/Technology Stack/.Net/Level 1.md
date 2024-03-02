@@ -47,7 +47,7 @@
    - Functions and methods.
 
 2. **Familiarity with Object-Oriented Programming (OOP):** 
-   - Classes, objects, and inheritance.
+   - Classes, Structs, objects, and inheritance.
    - Encapsulation and polymorphism.
 
 3. **Web Development Concepts:**
@@ -55,10 +55,12 @@
    - Understanding the client-server architecture.
 
 4. **Database Fundamentals:**
+   - Basic understanding of file systems
    - Relational database concepts.
    - Basic SQL queries for CRUD operations.
 
 5. **Version Control:**
+   - Fundamental of Version Controls
    - Git basics – cloning, committing, pushing, and pulling.
 
 ## Examples:

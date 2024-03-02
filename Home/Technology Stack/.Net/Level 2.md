@@ -42,7 +42,7 @@
 
 1. **Advanced C#:**
    - Delegates, events, and lambda expressions.
-   - Advanced topics in OOP.
+   - Advanced topics in OOP like SOLID principles.
 
 2. **ASP.NET MVC:**
    - Controllers, actions, and views in MVC.
