@@ -18,7 +18,6 @@
 - Effectively collaborates with product managers and other stakeholders.
 
 ### Minimum Experience:
-<!-- - Typically, 6+ years of experience as a mid-level engineer before moving to a senior role. -->
 - 8+ years of practical experience before considering a promotion.
 
 

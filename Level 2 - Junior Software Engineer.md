@@ -17,7 +17,6 @@
 - Actively participates in team discussions.
 - Collaborates well with team members.
 
-<!-- ### Minimum Duration: -->
 ### Minimum Experience:
 - Around 1 to 2 years of practical experience before considering a promotion.
 

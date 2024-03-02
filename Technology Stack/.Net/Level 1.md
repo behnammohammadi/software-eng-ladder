@@ -3,11 +3,11 @@
 ## Roadmap:
 
 ### 1. Basic Understanding of .NET Ecosystem:
-   - Gain familiarity with the .NET framework and its components.
+   - Gain familiarity with the .NET framework and its components or any other backend framework.
    - Understand the basics of Common Language Runtime (CLR) and the .NET Base Class Library (BCL).
 
 ### 2. Introduction to C# Programming:
-   - Learn the fundamentals of C# programming language.
+   - Learn the fundamentals of C# programming language or any other programming language(Preferably an OOP language).
    - Understand variables, data types, control flow, and basic syntax.
 
 ### 3. Version Control:
@@ -20,8 +20,7 @@
 
 ### 5. Basic Web Development with ASP.NET:
    - Get hands-on experience with building simple web applications using ASP.NET.
-   - Learn about web forms, MVC basics, and routing. web forms
-   <!-- - web forms ?? -->
+   - Learn about MVC basics, and routing.
 
 ### 6. Database Basics:
    - Understand the basics of working with databases.
@@ -47,7 +46,7 @@
    - Control flow (if statements, loops).
    - Functions and methods.
 
-2. **Object-Oriented Programming (OOP):**  Familiarity??
+2. **Familiarity with Object-Oriented Programming (OOP):** 
    - Classes, objects, and inheritance.
    - Encapsulation and polymorphism.
 
