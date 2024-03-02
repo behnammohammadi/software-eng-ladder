@@ -7,7 +7,7 @@
    - Understand and contribute to high-level architectural decisions.
 
 ### 2. Advanced Database Management:
-   - Optimize database performance and queries.
+   - Optimize database performance and queries (SQL Server, PostgreSQL,...).
    - Work with large datasets and handle database scaling.
 
 ### 3. Cross-Platform Development:
