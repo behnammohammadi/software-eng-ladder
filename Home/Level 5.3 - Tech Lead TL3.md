@@ -1,6 +1,6 @@
 # .NET Developer Career Ladder
 
-## Level 8: Tech Lead (TL3)
+## Tech Lead (TL3)
 
 ### Responsibilities:
 - Leading and overseeing multiple teams across different projects.

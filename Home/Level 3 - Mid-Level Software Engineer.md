@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Level 3: Mid-Level Software Engineer (L3)
+## Mid Software Engineer (L3)
 
 ### Responsibilities:
 - Leading the design and implementation of features.

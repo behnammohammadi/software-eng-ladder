@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Level 4: Mid+ Software Engineer (L4)
+## Mid+ Software Engineer (L4)
 
 ### Responsibilities:
 - Taking ownership of critical projects or components.

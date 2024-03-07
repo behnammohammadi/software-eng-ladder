@@ -1,6 +1,6 @@
 # .NET Developer Career Ladder
 
-## Level 7: Tech Lead (TL2)
+## Tech Lead (TL2)
 
 ### Responsibilities:
 - Leading multiple teams or sub-teams.

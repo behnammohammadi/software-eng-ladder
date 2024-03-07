@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Level 2: Junior+ Software Engineer (L2)
+## Junior+ Software Engineer (L2)
 
 ### Responsibilities:
 - Writing and maintaining code independently.

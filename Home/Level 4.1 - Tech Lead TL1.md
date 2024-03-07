@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Level 6: Tech Lead (TL1)
+## Tech Lead (TL1)
 
 ### Responsibilities:
 - Leading a team or sub-team.

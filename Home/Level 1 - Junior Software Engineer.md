@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Level 1: Junior Software Engineer (L1)
+## Junior Software Engineer (L1)
 
 ### Responsibilities:
 - Learning the basics of the development environment.

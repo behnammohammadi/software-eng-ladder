@@ -1,6 +1,6 @@
 # .NET Developer Career Ladder
 
-## Level 9: Tech Lead (TL4)
+## Tech Lead (TL4)
 
 ### Responsibilities:
 - Leading and influencing technical excellence across the entire organization.
