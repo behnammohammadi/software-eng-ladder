@@ -1,7 +1,5 @@
 # .NET Developer Career Ladder - Level 3
 
-## Roadmap:
-
 ### 1. Proficency in Software Design:
    - Lead the design and implementation of complex features.
    - Understand and contribute to high-level architectural decisions.

@@ -18,7 +18,7 @@
 - Effectively collaborates with product managers and other stakeholders.
 
 ### Minimum Experience:
-- 8+ years of practical experience before considering a promotion.
+- Consider a promotion after gaining 1 or more years of practical experience in TL1.
 
 ### Next Actions:
 - Successfully lead a team or sub-team through a major project.
@@ -31,6 +31,11 @@
 - They collaborate with product managers, aligning technical decisions with business goals.
 - As a mentor, they guide other tech leads and junior tech leads in solving complex challenges.
 - Their effective communication fosters a positive and collaborative work environment.
+
+### Competency Ratings:
+| Team Contributor | Technical Leadership | People Management |
+| ---------------- | -------------------- | ----------------- |
+|         3        |          4           |         2         |
 
 ## Technology Stack
 - [.NET](Technology%20Stack/.Net/Level%206.md)

@@ -32,6 +32,10 @@
 - Actively involved in process improvement, they identify bottlenecks and suggest enhancements.
 - They lead code and architecture reviews, ensuring high-quality deliverables.
 
+### Competency Ratings:
+| Team Contributor | Technical Leadership | People Management |
+| ---------------- | -------------------- | ----------------- |
+|         4        |          2           |         0         |
 
 ## Technology Stack
 - [.NET](Technology%20Stack/.Net/Level%204.md)

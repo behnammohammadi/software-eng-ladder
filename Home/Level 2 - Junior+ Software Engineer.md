@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Level 2: Junior Software Engineer (L2)
+## Level 2: Junior+ Software Engineer (L2)
 
 ### Responsibilities:
 - Writing and maintaining code independently.
@@ -27,10 +27,15 @@
 - Contribute to documentation and code reviews.
 
 ### Scenario:
-- A junior engineer is assigned a feature in a larger project.
+- A junior+ engineer is assigned a feature in a larger project.
 - They independently write code, submit it for code review, and incorporate feedback.
 - During team discussions, they contribute ideas for improvements and share their learning experiences.
 - They actively seek guidance from mid-level and senior engineers to improve their skills.
+
+### Competency Ratings:
+| Team Contributor | Technical Leadership | People Management |
+| ---------------- | -------------------- | ----------------- |
+|         2        |          0           |         0         |
 
 ## Technology Stack
 - [.NET](Technology%20Stack/.Net/Level%202.md)

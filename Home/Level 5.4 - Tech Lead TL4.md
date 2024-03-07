@@ -24,7 +24,7 @@
 - Drives a culture of continuous improvement and innovation.
 
 ### Minimum Experience:
-- 15+ years of practical experience before considering a promotion.
+- Consider a promotion after gaining 1 or more years of practical experience in TL4.
 - Significant experience leading and influencing organizational strategies and technical excellence.
 
 ### Next Actions:
@@ -38,3 +38,8 @@
 - They hold a deep knowledge of the entire technology stack, ensuring mastery.
 - Proactively define and execute plans to mitigate system outages at an organizational level.
 - Their coordination and leadership impact not only their teams but also have a significant influence on the entire tech organization.
+
+### Competency Ratings:
+| Team Contributor | Technical Leadership | People Management |
+| ---------------- | -------------------- | ----------------- |
+|         3        |          5           |         5         |

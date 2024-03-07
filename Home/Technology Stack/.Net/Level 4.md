@@ -1,7 +1,5 @@
 # .NET Developer Career Ladder - Level 4
 
-## Roadmap:
-
 ### 1. Ownership of Critical Projects:
    - Take ownership of critical projects or components.
    - Lead the end-to-end development process, ensuring high-quality delivery.

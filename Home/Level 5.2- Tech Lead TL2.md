@@ -27,7 +27,7 @@
 - Drives a culture of continuous improvement and innovation.
 
 ### Minimum Experience:
-- 10+ years of practical experience before considering a promotion.
+- Consider a promotion after gaining 1 or more years of practical experience in TL2.
 - Significant experience leading and influencing organizational-level initiatives.
 
 ### Next Actions:
@@ -41,3 +41,8 @@
 - They collaborate with senior leadership to align technical decisions with overarching business and organizational goals.
 - As a mentor, they guide other tech leads and junior tech leads in solving intricate technical challenges.
 - Their effective communication fosters a positive and collaborative work environment across the entire tech organization.
+
+### Competency Ratings:
+| Team Contributor | Technical Leadership | People Management |
+| ---------------- | -------------------- | ----------------- |
+|         3        |          5           |         3         |

@@ -32,6 +32,10 @@
 - As a mentor, they guide junior team members in resolving technical challenges.
 - They contribute to define coding standards and best practices within the team.
 
+### Competency Ratings:
+| Team Contributor | Technical Leadership | People Management |
+| ---------------- | -------------------- | ----------------- |
+|         3        |          1           |         0         |
 
 ## Technology Stack
 - [.NET](Technology%20Stack/.Net/Level%203.md)

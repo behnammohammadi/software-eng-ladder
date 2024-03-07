@@ -32,6 +32,10 @@
 - As a mentor to other team leads, they share insights on managing complex projects.
 - They contribute to defining technical standards, influencing technology choices for the organization.
 
+### Competency Ratings:
+| Team Contributor | Technical Leadership | People Management |
+| ---------------- | -------------------- | ----------------- |
+|         5        |          3           |         1         |
 
 ## Technology Stack
 - [.NET](Technology%20Stack/.Net/Level%205.md)

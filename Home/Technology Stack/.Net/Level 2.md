@@ -1,7 +1,5 @@
 # .NET Developer Career Ladder - Level 2
 
-## Roadmap:
-
 ### 1. Proficient in C# Programming:
    - Strengthen C# skills with advanced concepts.
    - Dive deeper into object-oriented programming (OOP) principles.

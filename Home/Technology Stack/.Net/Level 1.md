@@ -1,7 +1,5 @@
 # .NET Developer Career Ladder - Level 1
 
-## Roadmap:
-
 ### 1. Basic Understanding of .NET Ecosystem:
    - Gain familiarity with the .NET framework and its components or any other backend framework.
    - Understand the basics of Common Language Runtime (CLR) and the .NET Base Class Library (BCL).
@@ -74,4 +72,4 @@
 - **Example Exercise:**
    - Solve coding challenges on platforms like HackerRank or LeetCode to improve problem-solving skills.
 
-As an intern .NET Developer, the emphasis is on building a strong foundation in C#, understanding basic web development concepts, and getting familiar with fundamental tools and technologies used in the .NET ecosystem. Practical examples and exercises are essential to reinforce learning and prepare for more complex tasks in the future.
+As an Junior .NET Developer, the emphasis is on building a strong foundation in C#, understanding basic web development concepts, and getting familiar with fundamental tools and technologies used in the .NET ecosystem. Practical examples and exercises are essential to reinforce learning and prepare for more complex tasks in the future.

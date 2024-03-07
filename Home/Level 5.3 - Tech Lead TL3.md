@@ -24,7 +24,7 @@
 - Drives a culture of continuous improvement and innovation.
 
 ### Minimum Experience:
-- 12+ years of practical experience before considering a promotion.
+- Consider a promotion after gaining 1 or more years of practical experience in TL3.
 - Significant experience leading multiple teams and impacting cross-team initiatives.
 
 ### Next Actions:
@@ -38,3 +38,8 @@
 - They hold a deep knowledge of the entire technology stack, ensuring technical excellence.
 - Proactively define and execute plans to mitigate system outages.
 - Their coordination and leadership impact not only their teams but also have a positive influence on other teams across the organization.
+
+### Competency Ratings:
+| Team Contributor | Technical Leadership | People Management |
+| ---------------- | -------------------- | ----------------- |
+|         3        |          5           |         4         |

@@ -1,7 +1,5 @@
 # .NET Developer Career Ladder - Level 5
 
-## Roadmap:
-
 ### 1. Project Architecture and Technical Decisions:
    - Oversee project architecture and technical decisions.
    - Ensure alignment with organizational goals and long-term vision.

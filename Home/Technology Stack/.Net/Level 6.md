@@ -1,7 +1,5 @@
 # .NET Developer Career Ladder - Level 6
 
-## Roadmap:
-
 ### 1. Leadership of Technical Teams:
    - Lead a technical team or sub-team within the organization.
    - Foster a positive and collaborative team culture.
