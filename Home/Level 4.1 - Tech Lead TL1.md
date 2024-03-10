@@ -35,7 +35,7 @@
 ### Competency Ratings:
 | Team Contributor | Technical Leadership | People Management |
 | ---------------- | -------------------- | ----------------- |
-|         3        |          4           |         2         |
+|         4        |          4           |         2         |
 
 ## Technology Stack
 - [.NET](Technology%20Stack/.Net/Level%206.md)
