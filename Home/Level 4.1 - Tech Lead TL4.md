@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Tech Lead (TL1)
+## Tech Lead (TL4)
 
 ### Responsibilities:
 - Leading a team or sub-team.

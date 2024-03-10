@@ -1,6 +1,6 @@
 # .NET Developer Career Ladder
 
-## Tech Lead (TL2)
+## Tech Lead (TL5)
 
 ### Responsibilities:
 - Leading multiple teams or sub-teams.

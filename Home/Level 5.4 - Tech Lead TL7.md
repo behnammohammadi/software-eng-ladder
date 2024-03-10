@@ -1,6 +1,6 @@
 # .NET Developer Career Ladder
 
-## Tech Lead (TL4)
+## Tech Lead (TL7)
 
 ### Responsibilities:
 - Leading and influencing technical excellence across the entire organization.

@@ -1,6 +1,6 @@
 # .NET Developer Career Ladder
 
-## Tech Lead (TL3)
+## Tech Lead (TL6)
 
 ### Responsibilities:
 - Leading and overseeing multiple teams across different projects.

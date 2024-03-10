@@ -1,6 +1,6 @@
 # Software Engineer Career Ladder
 
-## Junior+ Software Engineer (L2)
+## Mid- Software Engineer (L2)
 
 ### Responsibilities:
 - Writing and maintaining code independently.
