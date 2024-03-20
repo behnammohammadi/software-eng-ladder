@@ -1,4 +1,6 @@
+
 # Software Engineer Career Ladder
+
 
 This repository outlines the career progression for software engineers, spanning from Intern to Tech Lead. Each level is defined by specific responsibilities, skills, soft skills, and collaboration expectations. See the details for each level below:
 
@@ -15,19 +17,23 @@ This repository outlines the career progression for software engineers, spanning
 
 Explore each level to understand the associated responsibilities, skills, and next steps in the software engineering career journey.
 
----
+We created the first version of this document with ChatGPT 3.5. Now, we want to make it even better by getting input and ideas from everyone. 
+
+## Technology Stacks
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## Contact me
+Feel free to explore the repository and connect with me on LinkedIn.
+[@bmohammadi](https://www.linkedin.com/in/bmohammadi/)
+
+## Thanks to All Contributors ❤️
+
+ <a href = "https://github.com/behnammohammadi/software-eng-ladder/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=behnammohammadi/software-eng-ladder"/>
+ </a>
+
+ ---
 
 [References](Home/References.md)
 
 ---
-
-We created the first version of this document with ChatGPT 3.5. Now, we want to make it even better by getting input and ideas from everyone. 
-
-## Technology Stacks:
-![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-## Thanks to All Contributors ❤️
-
- <a href = "https://github.com/https://github.com/behnammohammadi/software-eng-ladder/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=behnammohammadi/software-eng-ladder"/>
- </a>
